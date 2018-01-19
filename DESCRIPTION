@@ -1,0 +1,19 @@
+Package: MSEApdata
+Type: Package
+Title: Metabolite-set data collection for pathway analysis in metabolomics
+Version: 0.0.0.9000
+Date: 2018-01-19
+Author: Atsushi Fukushima, Kozo Nishida
+Maintainer: Atsushi Fukushima <afukushima@gmail.com>
+Description: This package includes metabolite-set data collections that are
+        utilized for the Metabolite Set Enrichment Analyses (MSEA) method
+        for large-scale metabolite profiles. It includes Ecoli, Human and
+        Mouse, and plants of the MetaCyc database (Caspi et al. NAR 
+        44:D471-D480, 2016) and SMPDB (Jewison et al. NAR 42: D478-D484, 2014).
+License: Artistic-2.0
+biocViews: ExperimentData
+Depends: R (>= 2.10)
+Suggests: knitr, rmarkdown, MSEAp
+VignetteBuilder: knitr
+NeedsCompilation: no
+RoxygenNote: 6.0.1

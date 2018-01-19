@@ -1,0 +1,32 @@
+---
+title: "MSEApdata"
+author:
+- name: Atsushi Fukushima
+  affiliation: RIKEN Center for Sustainable Resource Science
+  email: afukushima@gmail.com
+date: "`r Sys.Date()`" 
+output:
+  BiocStyle::html_document:
+    toc_float: true
+abstract: |
+  Instructions for the MSEApdata package.
+vignette: |
+  %\VignetteIndexEntry{MSEApdata instructions}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+The `MSEApdata` package is the companion to `MSEAp`. It contains the following, which are necessary for metabolite-set enrichment analysis with `MSEAp`:
+
+# Metabolite-set data
+`MSEAp::supported.msets()` lists all available metabolite-sets for `MSEAp`.
+
+```{r}
+MSEAp::supported.msets()
+```
+
+# Example data for `MSEAp`
+We included `mset_AraCyc_format_KEGG` and `mset_PlantCyc_format_KEGG`, both for plant metabolomics study.
+
+
+
