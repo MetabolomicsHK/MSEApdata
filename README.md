@@ -13,7 +13,7 @@ devtools::install_github("afukushima/MSEApdata", build_vignettes = TRUE)
 
 # Documents
 ```{R}
-browseVignettes("MSEAp")
+browseVignettes("MSEApdata")
 ```
 
 # Metabolite-set data
