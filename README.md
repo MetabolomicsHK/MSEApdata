@@ -11,6 +11,11 @@ devtools::install_github("afukushima/MSEAp", build_vignettes = TRUE)
 devtools::install_github("afukushima/MSEApdata", build_vignettes = TRUE)
 ```
 
+# Documents
+```{R}
+browseVignettes("MSEAp")
+```
+
 # Metabolite-set data
 `MSEAp::supported.msets()` lists all available metabolite-sets for [`MSEAp`](https://github.com/afukushima/MSEAp).
 
