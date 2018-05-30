@@ -2,7 +2,7 @@ Package: MSEApdata
 Type: Package
 Title: Metabolite-set data collection for pathway analysis in metabolomics
 Version: 0.0.0.9000
-Date: 2018-01-19
+Date: 2018-05-30
 Author: Atsushi Fukushima, Kozo Nishida
 Maintainer: Atsushi Fukushima <afukushima@gmail.com>
 Description: This package includes metabolite-set data collections that are
@@ -13,7 +13,7 @@ Description: This package includes metabolite-set data collections that are
 License: Artistic-2.0
 biocViews: ExperimentData
 Depends: R (>= 2.10)
-Suggests: knitr, rmarkdown, MSEAp
+Suggests: BiocStyle, knitr, rmarkdown, MSEAp
 VignetteBuilder: knitr
 NeedsCompilation: no
 RoxygenNote: 6.0.1

@@ -28,5 +28,14 @@ MSEAp::supported.msets()
 # Example data for `MSEAp`
 We included `mset_AraCyc_format_KEGG` and `mset_PlantCyc_format_KEGG`, both for plant metabolomics study.
 
+# References
 
 
+# Session information {.unnumbered}
+
+Here is the output of `sessionInfo()` on the system on which this
+document was compiled:
+
+```{r sessionInfo, echo=FALSE}
+sessionInfo()
+```
