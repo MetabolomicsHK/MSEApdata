@@ -7,6 +7,7 @@ install.packages(c("devtools", "knitr", "rmarkdown"))
 source("http://bioconductor.org/biocLite.R")
 biocLite("BiocStyle")
 
+devtools::install_github("afukushima/MSEAp", build_vignettes = TRUE)
 devtools::install_github("afukushima/MSEApdata", build_vignettes = TRUE)
 ```
 

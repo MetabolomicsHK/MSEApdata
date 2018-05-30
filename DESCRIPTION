@@ -3,7 +3,10 @@ Type: Package
 Title: Metabolite-set data collection for pathway analysis in metabolomics
 Version: 0.0.0.9000
 Date: 2018-05-30
-Author: Atsushi Fukushima, Kozo Nishida
+Authors@R: c(person("Atsushi", "Fukushima", role = c("aut", "cre"),
+                    email = "afukushima@gmail.com"),
+              person("Kozo", "Nishida", role = "aut",
+                    email = "kozo.nishida@gmail.com"))
 Maintainer: Atsushi Fukushima <afukushima@gmail.com>
 Description: This package includes metabolite-set data collections that are
         utilized for the Metabolite Set Enrichment Analyses (MSEA) method
