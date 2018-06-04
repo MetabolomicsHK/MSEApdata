@@ -3,9 +3,14 @@ The `MSEApdata` package is the companion to [`MSEAp`](https://github.com/afukush
 
 # Installation
 ```{r}
-install.packages(c("devtools", "knitr", "rmarkdown"))
+# If you are using Debian or Ubuntu, please uncomment the next two lines
+#system("sudo apt-get update")
+#system("sudo apt-get install -y zlib1g-dev libxml2-dev libpng-dev")
+
+install.packages(c("devtools", "webshot", "knitr", "rmarkdown"))
+
 source("http://bioconductor.org/biocLite.R")
-biocLite("BiocStyle")
+biocLite(c("KEGGREST", "KEGGgraph", "BiocStyle", "paxtoolsr", "RCy3"))
 
 devtools::install_github("afukushima/MSEAp", build_vignettes = TRUE)
 devtools::install_github("afukushima/MSEApdata", build_vignettes = TRUE)
