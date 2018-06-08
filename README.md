@@ -17,10 +17,10 @@ browseVignettes("MSEApdata")
 ```
 
 # Metabolite-set data
-`MSEAp::supported.msets()` lists all available metabolite-sets for [`MSEAp`](https://github.com/afukushima/MSEAp).
+`MSEApdata::supported.msets()` lists all available metabolite-sets for [`MSEAp`](https://github.com/afukushima/MSEAp).
 
 ```{r}
-MSEAp::supported.msets()
+MSEApdata::supported.msets()
 ```
 
 # Example data for `MSEAp`
