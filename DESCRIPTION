@@ -16,7 +16,8 @@ Description: This package includes metabolite-set data collections that are
 License: file LICENSE
 biocViews: ExperimentData
 Depends: R (>= 2.10)
-Suggests: BiocStyle, knitr, rmarkdown, MSEAp
+Suggests: BiocStyle, knitr, rmarkdown, MSEAp,
+    testthat
 VignetteBuilder: knitr
 NeedsCompilation: no
 RoxygenNote: 6.0.1
