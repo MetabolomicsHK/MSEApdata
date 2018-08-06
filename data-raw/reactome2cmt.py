@@ -30,7 +30,7 @@ for org in organisms:
                 print('CHEBI:' + chebiid + ' invalid')
             for db in chebi_entity.get_database_accessions():
                 if db.get_type() == 'HMDB accession':
-                    hmdbids.append(db.get_accession_number())
+                    hmdbids.append(db.get_accession_number().replace("HMDB00", "HMDB"))
                 if db.get_type() == 'KEGG COMPOUND accession':
                     keggids.append(db.get_accession_number())
           
