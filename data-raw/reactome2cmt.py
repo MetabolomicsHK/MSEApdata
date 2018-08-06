@@ -34,20 +34,22 @@ for org in organisms:
                 if db.get_type() == 'KEGG COMPOUND accession':
                     keggids.append(db.get_accession_number())
           
-        chebiids.insert(0, i)
-        chebiids.insert(0, path[1].unique()[0])
-        chebilines.append("\t".join(chebiids))
+#        chebiids.insert(0, i)
+#        chebiids.insert(0, path[1].unique()[0])
+#        chebilines.append("\t".join(chebiids))
         
-        hmdbids = sorted(set(hmdbids), key=hmdbids.index)
-        hmdbids.insert(0, i)
-        hmdbids.insert(0, path[1].unique()[0])
-        hmdblines.append("\t".join(hmdbids))
+        if len(hmdbids) > 0:
+            hmdbids = sorted(set(hmdbids), key=hmdbids.index)
+            hmdbids.insert(0, i)
+            hmdbids.insert(0, path[1].unique()[0])
+            hmdblines.append("\t".join(hmdbids))
         
-        keggids = sorted(set(keggids), key=keggids.index)
-        keggids.insert(0, i)
-        keggids.insert(0, path[1].unique()[0])
-        kegglines.append("\t".join(keggids))
+        if len(keggids) > 0:
+            keggids = sorted(set(keggids), key=keggids.index)
+            keggids.insert(0, i)
+            keggids.insert(0, path[1].unique()[0])
+            kegglines.append("\t".join(keggids))
          
-    chebigmt.write_text("\n".join(chebilines))
+#    chebigmt.write_text("\n".join(chebilines))
     hmdbgmt.write_text("\n".join(hmdblines))
     kegggmt.write_text("\n".join(kegglines))
