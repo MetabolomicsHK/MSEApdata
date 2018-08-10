@@ -315,3 +315,573 @@ NULL
 ##' @author Atsushi Fukushima
 NULL
 
+###' A metabolite set for Arabidopsis thaliana based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with HMDB IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 401 metabolite sets.
+##'
+##' @name mset_Reactome_ATH_format_HMDB
+##' @docType data
+##' @title A metabolite set (HMDB IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Arabidopsis thaliana based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with KEGG IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 426 metabolite sets.
+##'
+##' @name mset_Reactome_ATH_format_KEGG
+##' @docType data
+##' @title A metabolite set (KEGG IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Bos taurus based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with HMDB IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 953 metabolite sets.
+##'
+##' @name mset_Reactome_BTA_format_HMDB
+##' @docType data
+##' @title A metabolite set (HMDB IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Bos taurus based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with KEGG IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 993 metabolite sets.
+##'
+##' @name mset_Reactome_BTA_format_KEGG
+##' @docType data
+##' @title A metabolite set (KEGG IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Caenorhabditis elegans based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with HMDB IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 616 metabolite sets.
+##'
+##' @name mset_Reactome_CEL_format_HMDB
+##' @docType data
+##' @title A metabolite set (HMDB IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Caenorhabditis elegans based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with KEGG IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 640 metabolite sets.
+##'
+##' @name mset_Reactome_CEL_format_KEGG
+##' @docType data
+##' @title A metabolite set (KEGG IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Canis familiaris based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with HMDB IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 930 metabolite sets.
+##'
+##' @name mset_Reactome_CFA_format_HMDB
+##' @docType data
+##' @title A metabolite set (HMDB IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Canis familiaris based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with KEGG IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 966 metabolite sets.
+##'
+##' @name mset_Reactome_CFA_format_KEGG
+##' @docType data
+##' @title A metabolite set (KEGG IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Dictyostelium discoideum based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with HMDB IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 436 metabolite sets.
+##'
+##' @name mset_Reactome_DDI_format_HMDB
+##' @docType data
+##' @title A metabolite set (HMDB IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Dictyostelium discoideum based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with KEGG IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 457 metabolite sets.
+##'
+##' @name mset_Reactome_DDI_format_KEGG
+##' @docType data
+##' @title A metabolite set (KEGG IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Drosophila melanogaster based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with HMDB IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 739 metabolite sets.
+##'
+##' @name mset_Reactome_DME_format_HMDB
+##' @docType data
+##' @title A metabolite set (HMDB IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Drosophila melanogaster based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with KEGG IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 773 metabolite sets.
+##'
+##' @name mset_Reactome_DME_format_KEGG
+##' @docType data
+##' @title A metabolite set (KEGG IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Danio rerio based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with HMDB IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 903 metabolite sets.
+##'
+##' @name mset_Reactome_DRE_format_HMDB
+##' @docType data
+##' @title A metabolite set (HMDB IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Danio rerio based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with KEGG IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 937 metabolite sets.
+##'
+##' @name mset_Reactome_DRE_format_KEGG
+##' @docType data
+##' @title A metabolite set (KEGG IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Gallus gallus based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with HMDB IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 928 metabolite sets.
+##'
+##' @name mset_Reactome_GGA_format_HMDB
+##' @docType data
+##' @title A metabolite set (HMDB IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Gallus gallus based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with KEGG IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 970 metabolite sets.
+##'
+##' @name mset_Reactome_GGA_format_KEGG
+##' @docType data
+##' @title A metabolite set (KEGG IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Homo sapiens based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with HMDB IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 1359 metabolite sets.
+##'
+##' @name mset_Reactome_HSA_format_HMDB
+##' @docType data
+##' @title A metabolite set (HMDB IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Homo sapiens based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with KEGG IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 1443 metabolite sets.
+##'
+##' @name mset_Reactome_HSA_format_KEGG
+##' @docType data
+##' @title A metabolite set (KEGG IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Mus musculus based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with HMDB IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 958 metabolite sets.
+##'
+##' @name mset_Reactome_MMU_format_HMDB
+##' @docType data
+##' @title A metabolite set (HMDB IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Mus musculus based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with KEGG IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 1001 metabolite sets.
+##'
+##' @name mset_Reactome_MMU_format_KEGG
+##' @docType data
+##' @title A metabolite set (KEGG IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Mycobacterium tuberculosis based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with HMDB IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 10 metabolite sets.
+##'
+##' @name mset_Reactome_MTU_format_HMDB
+##' @docType data
+##' @title A metabolite set (HMDB IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Mycobacterium tuberculosis based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with KEGG IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 10 metabolite sets.
+##'
+##' @name mset_Reactome_MTU_format_KEGG
+##' @docType data
+##' @title A metabolite set (KEGG IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Oryza sativa based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with HMDB IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 397 metabolite sets.
+##'
+##' @name mset_Reactome_OSA_format_HMDB
+##' @docType data
+##' @title A metabolite set (HMDB IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Oryza sativa based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with KEGG IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 422 metabolite sets.
+##'
+##' @name mset_Reactome_OSA_format_KEGG
+##' @docType data
+##' @title A metabolite set (KEGG IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Plasmodium falciparum based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with HMDB IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 192 metabolite sets.
+##'
+##' @name mset_Reactome_PFA_format_HMDB
+##' @docType data
+##' @title A metabolite set (HMDB IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Plasmodium falciparum based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with KEGG IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 209 metabolite sets.
+##'
+##' @name mset_Reactome_PFA_format_KEGG
+##' @docType data
+##' @title A metabolite set (KEGG IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Rattus norvegicus based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with HMDB IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 948 metabolite sets.
+##'
+##' @name mset_Reactome_RNO_format_HMDB
+##' @docType data
+##' @title A metabolite set (HMDB IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Rattus norvegicus based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with KEGG IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 986 metabolite sets.
+##'
+##' @name mset_Reactome_RNO_format_KEGG
+##' @docType data
+##' @title A metabolite set (KEGG IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Saccharomyces cerevisiae based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with HMDB IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 435 metabolite sets.
+##'
+##' @name mset_Reactome_SCE_format_HMDB
+##' @docType data
+##' @title A metabolite set (HMDB IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Saccharomyces cerevisiae based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with KEGG IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 457 metabolite sets.
+##'
+##' @name mset_Reactome_SCE_format_KEGG
+##' @docType data
+##' @title A metabolite set (KEGG IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Schizosaccharomyces pombe based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with HMDB IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 320 metabolite sets.
+##'
+##' @name mset_Reactome_SPO_format_HMDB
+##' @docType data
+##' @title A metabolite set (HMDB IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Schizosaccharomyces pombe based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with KEGG IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 348 metabolite sets.
+##'
+##' @name mset_Reactome_SPO_format_KEGG
+##' @docType data
+##' @title A metabolite set (KEGG IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Sus scrofa based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with HMDB IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 950 metabolite sets.
+##'
+##' @name mset_Reactome_SSC_format_HMDB
+##' @docType data
+##' @title A metabolite set (HMDB IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Sus scrofa based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with KEGG IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 989 metabolite sets.
+##'
+##' @name mset_Reactome_SSC_format_KEGG
+##' @docType data
+##' @title A metabolite set (KEGG IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Taeniopygia guttata based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with HMDB IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 834 metabolite sets.
+##'
+##' @name mset_Reactome_TGU_format_HMDB
+##' @docType data
+##' @title A metabolite set (HMDB IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Taeniopygia guttata based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with KEGG IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 875 metabolite sets.
+##'
+##' @name mset_Reactome_TGU_format_KEGG
+##' @docType data
+##' @title A metabolite set (KEGG IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A metabolite set for Xenopus tropicalis based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with HMDB IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 909 metabolite sets.
+##'
+##' @name mset_Reactome_XTR_format_HMDB
+##' @docType data
+##' @title A metabolite set (HMDB IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+
+###' A A metabolite set for Xenopus tropicalis based on Reactome project. "Reactome" https://reactome.org/download-data/ (2018 Aug 5).
+##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
+##' our metabolite set with KEGG IDs by using
+##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
+##' This dataset contains 946 metabolite sets.
+##'
+##' @name mset_Reactome_XTR_format_KEGG
+##' @docType data
+##' @title A metabolite set (KEGG IDs) based on Reactome
+##'
+##' @keywords datasets
+##' @references Fabregat et al. 2018 PMID: 29145629
+##' @author Kozo Nishida
+NULL
+ 
