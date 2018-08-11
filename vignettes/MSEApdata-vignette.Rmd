@@ -28,8 +28,19 @@ MSEAp::supported.msets()
 # Example data for `MSEAp`
 We included `mset_AraCyc_format_KEGG` and `mset_PlantCyc_format_KEGG`, both for plant metabolomics study.
 
-# References
+## Example of metabolite-set expansion
+As an example of metabolite-set expansion, we converted [Reactome open-data](https://reactome.org/download-data) to [gmt file format](https://software.broadinstitute.org/cancer/software/gsea/wiki/index.php/Data_formats#GMT:_Gene_Matrix_Transposed_file_format_.28.2A.gmt.29) (In our case, MSEA is performed instead of GSEA. So the gene IDs in the ordinary gmt file format are replaced by the metabolite IDs.) and imported the Reactome metabolite gmt files to rda data format in `data` directory.
+Please check `data-raw/reactome2gmt.py` and `data-raw/gmt2rda.R` in MSEApdata package to reproduce the process.
 
+You can also import [Wikipathways](https://www.wikipathways.org/) open-data to MSEAp with `MSEAp::read.wikipathways()`.
+But the metabolite IDs in Wikipathways open-data are not unified to KEGG or HMDB ID format.
+So you need some procedure to properly handle the IDs at some timing.
+
+# References
+1. Caspi, R., et al. The MetaCyc database of metabolic pathways and enzymes and the BioCyc collection of pathway/genome databases. Nucleic Acids Res 2016;44(D1):D471-480.
+2. Kanehisa, M., et al. KEGG: new perspectives on genomes, pathways, diseases and drugs. Nucleic Acids Res 2017;45(D1):D353-D361.
+3. Fabregat, A., et al. The Reactome Pathway Knowledgebase. Nucleic Acids Res 2017.
+4. Slenter, D.N., et al. WikiPathways: a multifaceted pathway database bridging metabolomics to other omics research. Nucleic Acids Res 2018;46(D1):D661-D667.
 
 # Session information {.unnumbered}
 
