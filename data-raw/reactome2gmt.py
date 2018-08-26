@@ -1,6 +1,8 @@
 import pandas as pd
 from pathlib import Path
-from libchebipy import *
+from libchebipy import ChebiEntity, ChebiException
+
+threshold = 5
 
 ChEBI2Reactome = pd.read_table("https://reactome.org/download/current/ChEBI2Reactome.txt", header=None)
 organisms = ChEBI2Reactome[5].unique()
@@ -38,13 +40,13 @@ for org in organisms:
 #        chebiids.insert(0, path[1].unique()[0])
 #        chebilines.append("\t".join(chebiids))
         
-        if len(hmdbids) > 0:
+        if len(set(hmdbids)) > threshold:
             hmdbids = sorted(set(hmdbids), key=hmdbids.index)
             hmdbids.insert(0, i)
             hmdbids.insert(0, path[1].unique()[0])
             hmdblines.append("\t".join(hmdbids))
         
-        if len(keggids) > 0:
+        if len(set(keggids)) > threshold:
             keggids = sorted(set(keggids), key=keggids.index)
             keggids.insert(0, i)
             keggids.insert(0, path[1].unique()[0])
