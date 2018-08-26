@@ -319,7 +319,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with HMDB IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 401 metabolite sets.
+##' This dataset contains 137 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_ATH_format_HMDB
 ##' @docType data
@@ -334,7 +335,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with KEGG IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 426 metabolite sets.
+##' This dataset contains 211 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_ATH_format_KEGG
 ##' @docType data
@@ -349,7 +351,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with HMDB IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 953 metabolite sets.
+##' This dataset contains 310 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_BTA_format_HMDB
 ##' @docType data
@@ -364,7 +367,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with KEGG IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 993 metabolite sets.
+##' This dataset contains 426 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_BTA_format_KEGG
 ##' @docType data
@@ -379,7 +383,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with HMDB IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 616 metabolite sets.
+##' This dataset contains 205 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_CEL_format_HMDB
 ##' @docType data
@@ -394,7 +399,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with KEGG IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 640 metabolite sets.
+##' This dataset contains 276 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_CEL_format_KEGG
 ##' @docType data
@@ -409,7 +415,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with HMDB IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 930 metabolite sets.
+##' This dataset contains 293 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_CFA_format_HMDB
 ##' @docType data
@@ -424,7 +431,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with KEGG IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 966 metabolite sets.
+##' This dataset contains 415 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_CFA_format_KEGG
 ##' @docType data
@@ -439,7 +447,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with HMDB IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 436 metabolite sets.
+##' This dataset contains 135 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_DDI_format_HMDB
 ##' @docType data
@@ -454,7 +463,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with KEGG IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 457 metabolite sets.
+##' This dataset contains 209 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_DDI_format_KEGG
 ##' @docType data
@@ -469,7 +479,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with HMDB IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 739 metabolite sets.
+##' This dataset contains 224 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_DME_format_HMDB
 ##' @docType data
@@ -484,7 +495,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with KEGG IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 773 metabolite sets.
+##' This dataset contains 318 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_DME_format_KEGG
 ##' @docType data
@@ -499,7 +511,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with HMDB IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 903 metabolite sets.
+##' This dataset contains 287 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_DRE_format_HMDB
 ##' @docType data
@@ -514,7 +527,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with KEGG IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 937 metabolite sets.
+##' This dataset contains 393 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_DRE_format_KEGG
 ##' @docType data
@@ -529,7 +543,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with HMDB IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 928 metabolite sets.
+##' This dataset contains 295 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_GGA_format_HMDB
 ##' @docType data
@@ -544,7 +559,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with KEGG IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 970 metabolite sets.
+##' This dataset contains 405 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_GGA_format_KEGG
 ##' @docType data
@@ -559,7 +575,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with HMDB IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 1359 metabolite sets.
+##' This dataset contains 388 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_HSA_format_HMDB
 ##' @docType data
@@ -574,7 +591,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with KEGG IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 1443 metabolite sets.
+##' This dataset contains 542 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_HSA_format_KEGG
 ##' @docType data
@@ -589,7 +607,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with HMDB IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 958 metabolite sets.
+##' This dataset contains 308 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_MMU_format_HMDB
 ##' @docType data
@@ -604,7 +623,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with KEGG IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 1001 metabolite sets.
+##' This dataset contains 432 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_MMU_format_KEGG
 ##' @docType data
@@ -619,7 +639,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with HMDB IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 10 metabolite sets.
+##' This dataset contains 7 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_MTU_format_HMDB
 ##' @docType data
@@ -634,7 +655,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with KEGG IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 10 metabolite sets.
+##' This dataset contains 9 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_MTU_format_KEGG
 ##' @docType data
@@ -649,7 +671,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with HMDB IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 397 metabolite sets.
+##' This dataset contains 137 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_OSA_format_HMDB
 ##' @docType data
@@ -664,7 +687,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with KEGG IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 422 metabolite sets.
+##' This dataset contains 203 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_OSA_format_KEGG
 ##' @docType data
@@ -679,7 +703,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with HMDB IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 192 metabolite sets.
+##' This dataset contains 54 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_PFA_format_HMDB
 ##' @docType data
@@ -694,7 +719,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with KEGG IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 209 metabolite sets.
+##' This dataset contains 86 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_PFA_format_KEGG
 ##' @docType data
@@ -709,7 +735,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with HMDB IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 948 metabolite sets.
+##' This dataset contains 308 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_RNO_format_HMDB
 ##' @docType data
@@ -724,7 +751,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with KEGG IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 986 metabolite sets.
+##' This dataset contains 424 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_RNO_format_KEGG
 ##' @docType data
@@ -739,7 +767,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with HMDB IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 435 metabolite sets.
+##' This dataset contains 130 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_SCE_format_HMDB
 ##' @docType data
@@ -754,7 +783,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with KEGG IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 457 metabolite sets.
+##' This dataset contains 196 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_SCE_format_KEGG
 ##' @docType data
@@ -769,7 +799,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with HMDB IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 320 metabolite sets.
+##' This dataset contains 94 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_SPO_format_HMDB
 ##' @docType data
@@ -784,7 +815,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with KEGG IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 348 metabolite sets.
+##' This dataset contains 149 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_SPO_format_KEGG
 ##' @docType data
@@ -799,7 +831,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with HMDB IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 950 metabolite sets.
+##' This dataset contains 301 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_SSC_format_HMDB
 ##' @docType data
@@ -814,7 +847,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with KEGG IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 989 metabolite sets.
+##' This dataset contains 424 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_SSC_format_KEGG
 ##' @docType data
@@ -829,7 +863,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with HMDB IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 834 metabolite sets.
+##' This dataset contains 266 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_TGU_format_HMDB
 ##' @docType data
@@ -844,7 +879,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with KEGG IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 875 metabolite sets.
+##' This dataset contains 364 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_TGU_format_KEGG
 ##' @docType data
@@ -859,7 +895,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with HMDB IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 909 metabolite sets.
+##' This dataset contains 297 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_XTR_format_HMDB
 ##' @docType data
@@ -874,7 +911,8 @@ NULL
 ##' We converted https://reactome.org/download/current/ChEBI2Reactome.txt to
 ##' our metabolite set with KEGG IDs by using
 ##' https://github.com/afukushima/MSEApdata/blob/master/data-raw/reactome2cmt.py
-##' This dataset contains 946 metabolite sets.
+##' This dataset contains 406 metabolite sets.
+##' There are only metabolite sets containing at least 5 compounds.
 ##'
 ##' @name mset_Reactome_XTR_format_KEGG
 ##' @docType data
