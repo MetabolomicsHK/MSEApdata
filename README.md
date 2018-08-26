@@ -12,8 +12,8 @@ install.packages(c("devtools", "webshot", "knitr", "rmarkdown"))
 source("http://bioconductor.org/biocLite.R")
 biocLite(c("KEGGREST", "KEGGgraph", "BiocStyle", "paxtoolsr", "RCy3"))
 
-devtools::install_github("afukushima/MSEAp", build_vignettes = TRUE)
 devtools::install_github("afukushima/MSEApdata", build_vignettes = TRUE)
+devtools::install_github("afukushima/MSEAp", build_vignettes = TRUE)
 ```
 
 # Documents
