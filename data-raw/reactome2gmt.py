@@ -2,7 +2,7 @@ import pandas as pd
 from pathlib import Path
 from libchebipy import ChebiEntity, ChebiException
 
-threshold = 5
+threshold = 4
 
 ChEBI2Reactome = pd.read_table("https://reactome.org/download/current/ChEBI2Reactome.txt", header=None)
 organisms = ChEBI2Reactome[5].unique()
